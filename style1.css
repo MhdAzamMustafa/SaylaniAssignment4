@@ -1,0 +1,31 @@
+.fa-user-circle-o{
+    margin-right: 15px;
+    margin-left: 90px;
+}
+.fa-shopping-cart{
+    margin-right: -250px;
+}
+.m-0>.fa-phone,.fa-phone,.fa-envelope-o{
+    display: inline;
+    color: green;
+
+}
+.fa-envelope-o:hover{
+    margin: 10px;
+    font-size: x-large;
+    font-style: italic;
+    color: white;
+
+}
+.fa-phone:hover{
+    margin: 10px;
+    font-size: x-large;
+    font-style: italic;
+    color: white;
+}
+.top{
+    position: fixed;
+    bottom: 40px;
+    right: 10px;
+
+}
